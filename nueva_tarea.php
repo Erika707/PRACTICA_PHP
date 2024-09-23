@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
     <div class="container">
-        <h1 class="my-4 text-center">Agregar Nueva Tarea</h1>
+        <h1 class="my-4 text-center">Agregar una Nueva Tarea</h1>
         <form method="POST" action="">
             <div class="form-group">
                 <label for="titulo">Título de la Tarea</label>
